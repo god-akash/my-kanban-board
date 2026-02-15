@@ -1,6 +1,3 @@
-# 📝 WebSocket-Powered Kanban Board - Candidate Guide
-
-## 📌 Project Overview
 
 This project involves building a **real-time Kanban board** where users can **add, update, delete, move tasks between columns, upload attachments, assign priority & category, and visualize progress**.
 
@@ -184,11 +181,11 @@ Additional UI Features:
 
 ---
 
-## 🚀 Next Steps for Candidates
+## 🚀 Next Steps for future
 
 🎯 Implement **WebSocket logic** in the Kanban board  
 🎯 Add **state management** for tasks  
 🎯 Write **unit, integration, and E2E tests**  
 🎯 Deploy and verify real-time updates
 
-🛠 **Final Tip:** Pay attention to **code quality, real-time interactions, and testing coverage**. Good luck! 🚀
+
